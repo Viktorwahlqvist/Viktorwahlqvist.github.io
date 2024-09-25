@@ -1,5 +1,3 @@
 # Viktors portfolio
 
-Viktor 32 years old, has a very big interest in computers and not so long ago I also noticed that I have a very big interest in programming too.
-I love the feeling you get when you've struggled and tried to find a solution and then when you find a solution, a rush of happiness fills your body.
-In my spare time I spend time with my children, everyone in the family has a common hobby, which is skiing..
+Hi, my name is Viktor, and I’m 32 years old. I have a deep passion for computers, and not too long ago, I discovered that I also have a passion for programming. In my free time, I enjoy spending time with my family. During the winter, we often go to the mountains for skiing, as it’s a shared interest among us all.
