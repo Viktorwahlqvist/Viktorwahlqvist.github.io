@@ -105,7 +105,8 @@ section.about-container > .About-para{
 }
 section.about-container > .About-pic{
     padding-top: 10%;
-    size-adjust: auto;
+    width: 80%;
+    height: auto;
 }
 article > .p-about-me{
     margin: 10% 20%;
