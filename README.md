@@ -1,3 +1,5 @@
 # Viktors portfolio
-
-Hi, my name is Viktor, and I’m 32 years old. I have a deep passion for computers, and not too long ago, I discovered that I also have a passion for programming. In my free time, I enjoy spending time with my family. During the winter, we often go to the mountains for skiing, as it’s a shared interest among us all.
+          My name is Viktor, and I have a strong passion for programming and
+          computers. In my spare time, I have been teaching myself and exploring
+          PHP and C#. In August 2024, I began a front-end development program,
+          and In autumn 2025, I will start my internship (LIA).
